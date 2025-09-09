@@ -5,17 +5,6 @@ A comprehensive, modular repository for Data Structures and Algorithms interview
 ## Getting Started
 
 - Prerequisites: Go 1.21+
-- Run a single solution (if it has a `main`):
-  
-  ```bash
-  go run ./arrays
-  ```
-
-- Run all tests:
-  
-  ```bash
-  go test ./...
-  ```
 
 ## Repository Structure
 
