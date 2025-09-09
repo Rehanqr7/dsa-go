@@ -92,6 +92,3 @@ dsa-go/
 
 - `utils/` provides reusable types and helpers: `ListNode`, `TreeNode`, graph builders, traversal printers, and small helpers for tests.
 
-## License
-
-MIT
